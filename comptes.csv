@@ -1,0 +1,13 @@
+login;nom;groupe_principal;groupes_secondaires
+jade;Jade Fontaine--Berrada;admins;acces_ssh
+lodric;Lodric Boyer;admins;acces_ssh
+harry;Harry Tchakounté Kemajou;admins;acces_ssh
+support;Compte Support;support;acces_ssh
+titeuf;Titeuf;dev;
+jett;Jett;dev;
+reinhardt;Reinhardt;design;
+mizuki;Mizuki;design;
+kira;Light Yagami;commercial;
+chogath;Cho'gath;commercial;
+doomfist;Doomfist;freelance;
+pikachu;Pikachu;freelance;
